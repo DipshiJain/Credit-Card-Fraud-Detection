@@ -3,4 +3,32 @@ Use "pip install tk" in command prompt or to install in jupyter notebook use ! p
 To run this file you just need to run it and wait for few minutes for the tkinter window to get open.
 
 Following is the sample input you can use: 
--1.359807 -0.072781 2.536347 1.378155 -0.338321 0.462388 0.239599 0.098698 0.363787 0.090794 -0.551600 -0.617801 -0.991390 -0.311169 1.468177 -0.470401 0.207971 0.025791 0.403993 0.251412 -0.018307 0.277838 -0.110474 0.066928 0.128539 -0.189115 0.133558 -0.021053 149.620000
+PCA transformed Feature 1 : -1.359807 
+PCA transformed Feature 2 : -0.072781 
+PCA transformed Feature 3 : 2.536347 
+PCA transformed Feature 4 : 1.378155 
+PCA transformed Feature 5 : -0.338321 
+PCA transformed Feature 6 : 0.462388 
+PCA transformed Feature 7 : 0.239599 
+PCA transformed Feature 8 : 0.098698 
+PCA transformed Feature 9 : 0.363787 
+PCA transformed Feature 10 : 0.090794 
+PCA transformed Feature 11 : -0.551600 
+PCA transformed Feature 12 : -0.617801 
+PCA transformed Feature 13 : -0.991390 
+PCA transformed Feature 14 : -0.311169 
+PCA transformed Feature 15 : 1.468177 
+PCA transformed Feature 16 : -0.470401 
+PCA transformed Feature 17 : 0.207971 
+PCA transformed Feature 18 : 0.025791 
+PCA transformed Feature 19 : 0.403993 
+PCA transformed Feature 20 : 0.251412 
+PCA transformed Feature 21 : -0.018307 
+PCA transformed Feature 22 : 0.277838 
+PCA transformed Feature 23 : -0.110474 
+PCA transformed Feature 24 : 0.066928 
+PCA transformed Feature 25 : 0.128539 
+PCA transformed Feature 26 : -0.189115 
+PCA transformed Feature 27 : 0.133558 
+PCA transformed Feature 28 : -0.021053 
+Amount : 149.620000
